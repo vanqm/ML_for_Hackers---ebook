@@ -1,5 +1,4 @@
-# Machine Learning for Hackers book
-Ref from http://slendermeans.org
+# Will it Python? post from http://slendermeans.org
 - [Chapter 1, Part 1: Loading data](http://slendermeans.org/ml4h-ch1-p1.html)
 - [Chapter 1, Part 2: Cleaning date and location data](http://slendermeans.org/ml4h-ch1-p2.html)
 - [Chapter 1, Part 3: Simple summaries and plots](http://slendermeans.org/ml4h-ch1-p3.html)
