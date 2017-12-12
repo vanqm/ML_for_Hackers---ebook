@@ -1,1 +1,15 @@
-# ML_for_Hackers---ebook
+# Machine Learning for Hackers book
+Ref from http://slendermeans.org
+- [Chapter 1, Part 1: Loading data](http://slendermeans.org/ml4h-ch1-p1.html)
+- [Chapter 1, Part 2: Cleaning date and location data](http://slendermeans.org/ml4h-ch1-p2.html)
+- [Chapter 1, Part 3: Simple summaries and plots](http://slendermeans.org/ml4h-ch1-p3.html)
+- [Chapter 1, Part 4: Data aggregation and reshaping](http://slendermeans.org/ml4h-ch1-p4.html)
+- [Chapter 1, Part 5: Trellis graphs](http://slendermeans.org/ml4h-ch1-p5.html)
+- [Chapter 2, Part 1: Summary stats and density estimators](http://slendermeans.org/ml4h-ch2-p1.html)
+- [Chapter 2, Part 2: Logistic regression with statsmodels](http://slendermeans.org/ml4h-ch2-p2.html)
+- [Chapter 3: Naive Bayes Text Classification](http://slendermeans.org/ml4h-ch3.html)
+- [Chapter 4: Priority e-mail ranking](http://slendermeans.org/ml4h-ch4.html)
+- [Chapter 5: Linear regression (with categorical regressors)](http://slendermeans.org/ml4h-ch5.html)
+- [Chapter 6: Regression models with regularization](http://slendermeans.org/ml4h-ch6.html)
+- [Chapter 7: Numerical optimization with deterministic and stochastic methods](http://slendermeans.org/ml4h-ch7.html)
+- [Chapter 8: Principal Components Analysis](http://slendermeans.org/ml4h-ch8.html)
